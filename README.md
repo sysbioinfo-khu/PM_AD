@@ -11,7 +11,15 @@ This section focuses on the integration of paired bulk transcriptome data and DN
 ## 2. Epigenetic Data
 
 In this section, epigenetic data are employed to further filter the triplet data.
+- ChIP-seq (H3K27ac, H4K4me1, H3K4me3)
+  - merge data (samtools)
+  - peak calling
+  
+- Hi-C
+  - FindTAD
+    
 - Filtering and refinement of triplet data using epigenetic signatures
+  - bedintersect
 
 ## 3. scRNA-seq
 
