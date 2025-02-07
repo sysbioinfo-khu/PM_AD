@@ -1,4 +1,4 @@
-PM AD: Epigenetic and Transcriptomic Analysis of Placental Data in Alzheimer's Disease
+### PM AD: Epigenetic and Transcriptomic Analysis of Placental Data in Alzheimer's Disease
 This repository contains the code and methodology for the analysis of epigenetic and transcriptomic data to investigate placental involvement in Alzheimer's Disease (AD). The analysis involves multiple approaches, including bulk transcriptome and DNA methylation data integration, epigenetic data filtering, single-cell RNA sequencing (scRNA-seq), and spatial transcriptomics. These methods are designed to generate valuable insights into the molecular mechanisms underlying AD and to identify potential biomarkers, such as the FCER1G gene, as explored in Figure 3 of our paper.
 
 The code is organized into different sections based on the analysis methods used in the paper. Each section corresponds to a specific approach or analytical step taken in our research.
