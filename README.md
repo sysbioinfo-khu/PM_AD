@@ -4,7 +4,7 @@ This repository contains the code and methodology for the analysis of **epigenet
 
 The code is organized into different sections based on the methods used in the paper. Preprocessed files used in the code can be provided upon request.
 
-## 1. Figures
+## 1. Figure
 This section contains the code and data for generating figures presented in the paper. The code covers Figures 1 to 4, while Figures 5 and 6 are related to the scRNA-seq section, and Figure 7 is part of the Spatial Transcriptomics section.
 
 ## 2. DNAm_bulk_transcriptome
