@@ -1,4 +1,4 @@
-# Multimodal analyses of developmental dynamics of placental macropages in atopic dermatitis 
+# Multimodal analyses of developmental dynamics of placental macrophages in atopic dermatitis 
 
 This repository contains the code and methodology for the analysis of **epigenetic** and **transcriptomic data** to investigate the effects of **prenatal particulate matter exposure** on **placental involvement** in **Atopic Dermatitis (AD)**. The analysis employs multiple approaches, including the integration of bulk transcriptome and DNA methylation data, epigenetic data, single-cell RNA sequencing (scRNA-seq), and spatial transcriptomics.
 
